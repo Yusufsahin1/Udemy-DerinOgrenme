@@ -1,1 +1,1 @@
-# Udemy-DerinOgrenme
+Udemy Derin Öğrenme Kursu
